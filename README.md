@@ -70,6 +70,15 @@ pytest
 
 See [docs folder](docs/)
 
+---
+
+# AI Mentorship Logs
+
+The `ai-mentorship/` [folder](docs/ai-mentorship/) contains summarized logs of guided discussions with an AI mentor during the development of `pybalatro`.  
+
+The goal of these sessions was **mentorship and architectural guidance**, not automatic code generation. All code in this project was written by me; the AI assisted only with **boilerplate, scaffolding, and documentation suggestions**.  
+
+These logs are included to demonstrate the **design thinking process**, show how key decisions were made, and provide transparency about the tools used to enhance learning and maintain structured development.
 
 ---
 
