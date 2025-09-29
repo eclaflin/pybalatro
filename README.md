@@ -1,11 +1,12 @@
 # pybalatro
+
 A Python-based, Balatro-inspired engine built as a learning project in OOP, data modeling, and game logic.
 
 ---
 
 ## Overview
 
-pybalatro` is an educational project that recreates the core mechanics of the card game *Balatro* in Python.  
+`pybalatro` is an educational project that recreates the core mechanics of the card game *Balatro* in Python.  
 
 The focus is not on graphics or UI, but on:
 - Practicing **object-oriented programming fundamentals**
@@ -33,15 +34,10 @@ This project is not affiliated with, or endorsed by, the creators of *Balatro*. 
 pybalatro/
 ├── pybalatro/ # Source code package
 │ ├── init.py
-│ ├── cards.py
-│ ├── deck.py
-│ ├── scoring_engine.py
 │ └── ...
 ├── tests/ # Unit tests
-│ └── test_cards.py
 ├── docs/ # Architecture notes, devlog, etc.
-│ ├── architecture.md
-│ └── devlog.md
+├── .gitignore
 ├── README.md
 ├── LICENSE
 ├── pyproject.toml
